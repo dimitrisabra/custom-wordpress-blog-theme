@@ -1,0 +1,39 @@
+/*
+Theme Name: MyTheme Demo
+Author: Dimitri Sabra
+Version: 1.0
+Text Domain: mytheme
+*/
+
+/* Custom styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+}
+
+a {
+    text-decoration: none;
+}
+
+.card-title a {
+    color: #333;
+}
+
+.card-title a:hover {
+    color: #007bff;
+}
+
+.hero {
+    background-color: #007bff;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
